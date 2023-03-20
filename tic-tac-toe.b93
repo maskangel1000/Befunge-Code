@@ -7,10 +7,10 @@ v        <
 
 
  Check row 0 for x
->20g"x"-#v_30g"x"-#v_40g"x"-#v_ >"X wins",,,,,,
+>20g"x"-#v_30g"x"-#v_40g"x"-#v_ >"X wins",,,,,,@
 v        <         <         <
  Check row 0 for o
->20g"o"-#v_30g"o"-#v_40g"o"-#v_  >"O wins",,,,,,
+>20g"o"-#v_30g"o"-#v_40g"o"-#v_  >"O wins",,,,,,@
 v        <         <         <
  Check row 1 for x
 >21g"x"-#v_31g"x"-#v_41g"x"-#v_ ^
